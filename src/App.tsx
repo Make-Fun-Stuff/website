@@ -29,7 +29,7 @@ function App() {
     document.title = "Make Fun Stuff";
   }, []);
 
-  const path = (window.location.pathname.match("/[a-zA-Z0-9]+") || [])[0] || "";
+  const path = (window.location.pathname.match("/[a-zA-Z0-9]*") || [])[0] || "";
   const [activePage, setActivePage] = React.useState(
     paths[path] ? paths[path].name : "404"
   );
