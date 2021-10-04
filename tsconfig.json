@@ -39,6 +39,7 @@
     "cdk.out"
   ],
   "include": [
-    "src"
+    "src",
+    "projects"
   ]
 }

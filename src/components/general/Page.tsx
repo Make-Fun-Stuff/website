@@ -8,8 +8,8 @@ export interface PageProps {
 export const Page = (props: PageProps) => {
   return (
     <div className="App-Page">
-      <h2 className="Page-Title">{props.title}</h2>
-      {props.children}
+      <h1 className="Page-Title">{props.title}</h1>
+      <div className="Page-Content">{props.children}</div>
     </div>
   );
 };

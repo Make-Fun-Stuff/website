@@ -1,7 +1,34 @@
 .App-Page {
-  margin-top: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+  overflow: scroll;
+  height: 100%;
 }
 
 .Page-Title {
   margin-bottom: 30px;
+  text-align: center;
+}
+
+.App-Page h2 {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.App-Page h3 {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.App-Page h4 {
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.App-Page h5 {
+  padding-top: 30px;
+  padding-bottom: 10px;
 }

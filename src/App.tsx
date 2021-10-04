@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import { SideNav } from "./components/app/nav/SideNav";
 import { Home } from "./components/home/HomePage";
 import { Projects } from "./components/projects/ProjectsPage";
+import { ProjectDetail } from "./components/projects/ProjectDetail";
 import { Contact } from "./components/contact/ContactPage";
 import { NotFoundPage } from "./components/404/NotFoundPage";
 import { About } from "./components/about/AboutPage";
@@ -52,6 +53,7 @@ function App() {
           <Switch>
             <Route exact path={"/"} component={Home} />
             <Route exact path={"/projects"} component={Projects} />
+            <Route path={"/projects/:projectId"} component={ProjectDetail} />
             <Route exact path={"/contact"} component={Contact} />
             <Route exact path={"/about"} component={About} />
 
