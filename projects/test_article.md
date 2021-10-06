@@ -35,8 +35,6 @@ Praesent vitae ullamcorper sem. Maecenas fermentum nunc ut metus tempor venenati
 
 Praesent vitae ullamcorper sem. Maecenas fermentum nunc ut metus tempor venenatis. Fusce fringilla cursus magna, ac consectetur purus fringilla nec. Cras pellentesque malesuada dolor a tempor.Praesent vitae ullamcorper sem. Maecenas fermentum nunc ut metus tempor venenatis. Fusce fringilla cursus magna, ac consectetur purus fringilla nec. Cras pellentesque malesuada dolor a tempor.
 
-![happy dog 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2019%2Fjun%2F17%2Fhow-dogs-capture-your-heart-evolution-puppy-dog-eyes&psig=AOvVaw3EzbI6WG65VmPjlxG9oxyS&ust=1633409449082000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDkz8T6r_MCFQAAAAAdAAAAABAD)
-
 Praesent vitae ullamcorper sem. Maecenas fermentum nunc ut metus tempor venenatis. Fusce fringilla cursus magna, ac consectetur purus fringilla nec. Cras pellentesque malesuada dolor a tempor.
 
 ## Header 3
